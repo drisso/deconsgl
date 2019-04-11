@@ -1,0 +1,14 @@
+bibentry("Article",
+         title = "Scalable {Bayesian} variable selection for structured high dimensional data",
+         author = c(person("Changgee", "Chang"),
+                    person("Suprateek", "Kundu"),
+                    person("Qi", "Long")),
+         year = 2016,
+         volume = 1604.07264,
+         journal = "arXiv",
+         url = "https://arxiv.org/abs/1604.07264",
+         textVersion =
+         paste("C. Chang, S. Kundu, Q. Long","(2016).",
+               "Scalable Bayesian variable selection for structured high dimensional data.",
+               "arXiv 1604.07264v2.")
+        )
